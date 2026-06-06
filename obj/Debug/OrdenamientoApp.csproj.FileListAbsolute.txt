@@ -1,0 +1,10 @@
+C:\Users\giral\Downloads\OrdenamientoApp_ProyectoCompleto (8)\obj\Debug\OrdenamientoApp.csproj.AssemblyReference.cache
+C:\Users\giral\Downloads\OrdenamientoApp_ProyectoCompleto (8)\obj\Debug\OrdenamientoApp.Form1.resources
+C:\Users\giral\Downloads\OrdenamientoApp_ProyectoCompleto (8)\obj\Debug\OrdenamientoApp.Properties.Resources.resources
+C:\Users\giral\Downloads\OrdenamientoApp_ProyectoCompleto (8)\obj\Debug\OrdenamientoApp.csproj.GenerateResource.cache
+C:\Users\giral\Downloads\OrdenamientoApp_ProyectoCompleto (8)\obj\Debug\OrdenamientoApp.csproj.CoreCompileInputs.cache
+C:\Users\giral\Downloads\OrdenamientoApp_ProyectoCompleto (8)\bin\Debug\OrdenamientoApp.exe.config
+C:\Users\giral\Downloads\OrdenamientoApp_ProyectoCompleto (8)\bin\Debug\OrdenamientoApp.exe
+C:\Users\giral\Downloads\OrdenamientoApp_ProyectoCompleto (8)\bin\Debug\OrdenamientoApp.pdb
+C:\Users\giral\Downloads\OrdenamientoApp_ProyectoCompleto (8)\obj\Debug\OrdenamientoApp.exe
+C:\Users\giral\Downloads\OrdenamientoApp_ProyectoCompleto (8)\obj\Debug\OrdenamientoApp.pdb
